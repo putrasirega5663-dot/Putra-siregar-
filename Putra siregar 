@@ -1,0 +1,11 @@
+# Program Input Output String — Ahmad Ariansyah Saputra Siregar 
+nama = "Putra"
+kelas = "10A"
+hobi = "membaca buku"
+
+print("\n===== HASIL DATA =====")
+print(f"Nama kamu: {nama}")
+print(f"Kamu kelas: {kelas}")
+print(f"Hobi kamu: {hobi}")
+
+print(f"\nDibuat oleh: Putra")
