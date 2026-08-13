@@ -9,3 +9,6 @@ print(f"Kamu kelas: {kelas}")
 print(f"Hobi kamu: {hobi}")
 
 print(f"\nDibuat oleh: Putra")
+print("Hai dunia!")
+print("aku lagi pelajaran python.")
+print ("ini sangat menyenangkan!")
